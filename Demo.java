@@ -1,4 +1,4 @@
-Public Class Demo{
+public class Demo{
     public void rakshithmethod()
     {
         System.out.println("hello this is Github class")
@@ -8,4 +8,10 @@ Public Class Demo{
     {
         System.out.println("Hello world from Rajesh");
     }
+    
+    public void anjaliMethod()
+    {
+        System.out.println("Hello world from Anjali");
+    }
 }
+
