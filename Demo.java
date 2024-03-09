@@ -1,4 +1,5 @@
 public class Demo{
+
     public void rakshithmethod()
     {
         System.out.println("hello this is Github class")
@@ -12,6 +13,10 @@ public class Demo{
     public void anjaliMethod()
     {
         System.out.println("Hello world from Anjali");
+    }
+    public void DaneshMethod()
+    {
+        system.out.println("HEY! This is danesh method");
     }
 }
 
